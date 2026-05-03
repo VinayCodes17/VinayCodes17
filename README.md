@@ -1,55 +1,80 @@
-# Hey, I'm Vinay 👋
+<h1 align="center">
+  Hi, I'm Vinay 👋
+</h1>
 
-I build web applications and care about how they actually work under the hood.
-
-Currently focused on backend development, clean architecture, and building product-level projects instead of just small demos. I like understanding systems end-to-end — from database design to deployment.
-
----
-
-## 🧠 What I'm Working On
-
-- Building full-stack applications with proper structure
-- Improving backend logic and API design
-- Learning how real-world deployments work
-
----
-
-## ⚙️ Tech Stack
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Focused+Developer;I+Build+Real+World+Systems;Clean+Code+%7C+Scalable+Architecture;From+Idea+to+Deployment" />
 </p>
 
-## 📌 Goals
+---
 
-- Write production-ready code
-- Understand system design fundamentals
-- Contribute to real-world projects
+## 🚀 About Me
+
+I’m not here to just write code — I build **systems that actually work in production**.
+
+- ⚙️ Backend-focused developer
+- 🧠 Obsessed with **clean architecture & scalability**
+- 🔍 I go deep into how things work under the hood
+- 🛠️ Building real-world projects, not tutorials
 
 ---
 
-## 📫 Reach Me
+## 🧠 Current Focus
 
-LinkedIn: (www.linkedin.com/in/vinay-kumrawat-370913390)
+- Designing **scalable backend systems**
+- Writing **clean, maintainable APIs**
+- Learning **deployment & system design**
+- Moving from *developer → engineer mindset*
 
 ---
 
-> Consistency over motivation. Build daily.
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+### 🌐 Web
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VinaCodes17&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayCodes17&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🔥 What Makes Me Different
+
+- I don’t just build features → I design systems
+- I care about **performance, structure, and scalability**
+- I focus on **real-world problems**, not dummy apps
+- I learn by **building end-to-end products**
+
+---
+
+
+
+## 📈 Growth Mindset
+
+```txt
+Consistency > Motivation
+Systems > Hacks
+Depth > Surface-Level Learning
