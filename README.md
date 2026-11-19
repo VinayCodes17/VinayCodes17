@@ -1,7 +1,7 @@
 <!-- VinayCodes17 | Compact, widget-first profile -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&text=VINAY&fontSize=48&fontColor=EAFBFF&fontAlignY=38&color=0:071426,55:075985,100:00CFFF&animation=fadeIn" alt="Vinay — backend engineering" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&text=Hello!IamVinay&fontSize=48&fontColor=EAFBFF&fontAlignY=38&color=0:071426,55:075985,100:00CFFF&animation=fadeIn" alt="Vinay — backend engineering" />
 </p>
 
 <h3 align="center">Backend Engineering · System Design · Distributed Systems</h3>
@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayCodes17&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D7E5" alt="GitHub stats: commits, stars and repositories" />
-  <img height="165" src="https://streak-stats.demolab.com?user=VinayCodes17&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D7E5&dates=8293A8" alt="Contribution streak" />
+  <img height="165" src="https://streak-stats.demolab.com?user=VinayCodes17&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=C9D7E5&dates=8293A8" alt="Contribution streak" />
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@
 ## Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinayCodes17&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" width="98%" alt="GitHub profile trophies" />
+  <img src="https://github-trophies.vercel.app/?username=VinayCodes17&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" width="98%" alt="GitHub profile trophies" />
 </p>
 
 <p align="center">
