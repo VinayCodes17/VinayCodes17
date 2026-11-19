@@ -1,0 +1,30 @@
+name: Animate contribution graph
+
+on:
+  schedule:
+    - cron: "13 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate animated contribution SVGs
+        uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/contribution-fx.svg?theme=ripple&palette=ocean&mode=light&speed=1.15
+            dist/contribution-fx-dark.svg?theme=neon&palette=ocean&mode=dark&speed=1.15
+
+      - name: Publish animated SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

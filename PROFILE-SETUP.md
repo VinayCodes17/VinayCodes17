@@ -1,77 +1,39 @@
-# Set up your GitHub profile README
+# Profile setup
 
-This package is intended for the special public profile repository named **`VinayCodes17`** under the GitHub account **`VinayCodes17`**.
+## Files to upload
 
-## 1. Copy the files
-
-Upload the contents of this folder to the root of `https://github.com/VinayCodes17/VinayCodes17`:
+Copy this folder's contents to the root of the public profile repository `VinayCodes17/VinayCodes17`:
 
 ```text
 VinayCodes17/
 ├── README.md
-├── PROFILE-SETUP.md
-├── assets/
-│   ├── hero-banner.jpg
-│   └── system-map.svg
 └── .github/
     └── workflows/
-        ├── snake.yml
-        └── profile-3d.yml
+        └── contribution-fx.yml
 ```
 
-The repository should be public for the profile README to appear on your GitHub profile.
+## Enable the animation workflow
 
-## 2. Enable workflow write permissions
+1. Open **Settings → Actions → General** in the profile repository.
+2. Under **Workflow permissions**, allow **Read and write permissions**.
+3. Open **Actions → Animate contribution graph → Run workflow**.
+4. After it succeeds, the workflow publishes two generated SVG files to the `output` branch.
+5. The README will load those files automatically.
 
-In the profile repository, open **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**. The workflows also declare `contents: write` explicitly.
+The action refreshes the artwork daily. To change the visual effect, edit the `theme`, `palette`, or `speed` query values in `contribution-fx.yml`.
 
-## 3. Generate the contribution snake
+## GitCity: interactive 3D city
 
-1. Open the **Actions** tab.
-2. Select **Generate contribution snake**.
-3. Choose **Run workflow**.
-4. After it completes, it publishes `github-snake.svg` and `github-snake-dark.svg` to the `output` branch.
+GitCity does **not** need a GitHub Action, token, or generated local image. The README uses its live SVG preview as a clickable link. Clicking it opens the full GitCity experience for `VinayCodes17`, where the contribution history can be explored in 3D and the city simulation can be driven.
 
-The README references the dark SVG at:
+GitHub profile READMEs do not support embedding the live Three.js experience with an iframe. The clickable preview is the practical README-compatible approach.
 
-```text
-https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake-dark.svg
-```
+## Removed from the previous version
 
-To display the snake in the README, add this where you want it:
+- `profile-3d.yml`: replaced by GitCity, which has an interactive 3D city and a driveable simulation.
+- `snake.yml`: replaced by the animated contribution-fx widget to avoid stacking multiple versions of the same contribution graphic.
+- Generated hero artwork and static architecture artwork: removed; this version uses live widgets and no AI-generated images.
 
-```html
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake.svg" alt="GitHub contribution snake" />
-  </picture>
-</p>
-```
+## Before publishing
 
-## 4. Generate the 3D contribution calendar
-
-1. Open the **Actions** tab.
-2. Select **Generate 3D contribution calendar**.
-3. Choose **Run workflow**.
-4. When the workflow finishes, it commits generated SVGs into `profile-3d-contrib/`.
-
-The README uses `profile-3d-contrib/profile-night-view.svg`. The action also produces other styles, including animated and green variants.
-
-## 5. Personalize the project and contact details
-
-Before publishing, review `README.md`:
-
-- Confirm the education and achievement wording is accurate.
-- Add direct repository links to OceanEmbed and any other projects you want to feature.
-- Add your LinkedIn URL and a public contact email if you want them displayed.
-- Remove any technology that no longer reflects what you're actively using.
-- Keep the “Currently Exploring” list separate from your core stack until you have hands-on experience.
-
-## Notes
-
-- The hero image and architecture illustration are local assets, so they do not depend on an external image-hosting service.
-- Typing SVG, skill icons, shields and analytics cards use third-party services. If one is unavailable, replace or remove that image.
-- GitHub README files do not run arbitrary JavaScript or embedded 3D WebGL scenes. These workflows generate static SVG assets that GitHub can display.
-- The stats cards are community-hosted services, not official GitHub analytics endpoints. Their availability and rate limits can change.
+Check that the GitHub account is `VinayCodes17`. Review the skills shown in the icon strip and remove any tools you no longer use. Add a LinkedIn or portfolio link only when you have the exact public URL.

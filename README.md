@@ -1,179 +1,88 @@
-<!--
-  PROFILE README — VinayCodes17
-  Replace or remove any project / contact details that have changed before publishing.
-  The hero banner and system map are stored locally in ./assets.
--->
+<!-- VinayCodes17 | Compact, widget-first profile -->
 
 <p align="center">
-  <img src="./assets/hero-banner.jpg" alt="Dark blue 3D cloud and backend infrastructure illustration" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=header&text=VINAY&fontSize=48&fontColor=EAFBFF&fontAlignY=38&color=0:071426,55:075985,100:00CFFF&animation=fadeIn" alt="Vinay — backend engineering" />
 </p>
 
-<h1 align="center">Hi, I'm Vinay</h1>
+<h3 align="center">Backend Engineering · System Design · Distributed Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/VinayCodes17">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58C7FF&center=true&vCenter=true&width=760&lines=Backend+Engineering+%26+System+Design;Building+APIs+and+Practical+Software+Systems;Exploring+Distributed+Systems+%26+Infrastructure;Learning+Deeply.+Building+Consistently." alt="Backend engineering, system design, APIs and distributed systems" />
-  </a>
+  CSE @ IIIT Nagpur &nbsp;·&nbsp; Building APIs and practical software systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/VinayCodes17"><img src="https://komarev.com/ghpvc/?username=VinayCodes17&label=PROFILE%20VIEWS&color=1677B8&style=flat-square" alt="Profile views" /></a>
-  <a href="https://github.com/VinayCodes17?tab=followers"><img src="https://img.shields.io/github/followers/VinayCodes17?label=FOLLOWERS&style=flat-square&color=1677B8" alt="GitHub followers" /></a>
-  <a href="https://github.com/VinayCodes17?tab=repositories"><img src="https://img.shields.io/badge/FOCUS-Backend%20Engineering-0B1D35?style=flat-square&labelColor=123A68" alt="Backend engineering focus" /></a>
+  <a href="https://github.com/VinayCodes17"><img src="https://komarev.com/ghpvc/?username=VinayCodes17&style=for-the-badge&color=087EA4&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="https://github.com/VinayCodes17?tab=followers"><img src="https://img.shields.io/github/followers/VinayCodes17?style=for-the-badge&logo=github&label=FOLLOWERS&color=087EA4" alt="GitHub followers" /></a>
+  <a href="https://github.com/VinayCodes17?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-0B1D35?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 </p>
 
 ---
 
-## About Me
-
-I'm a Computer Science student at **IIIT Nagpur**, focused on backend engineering and building practical software systems.
-
-I enjoy understanding how things work beneath the abstractions — from request lifecycles and API design to database modelling, caching, containerization and deployment. I learn best by building end-to-end projects, debugging them and understanding the trade-offs behind each design decision.
-
-- Backend-focused development with **Node.js, Express.js and FastAPI**
-- Designing and integrating **REST APIs**, authentication and data layers
-- Working with **MongoDB, PostgreSQL and Docker-based environments**
-- Exploring **distributed systems, system design and infrastructure**
-
-## Engineering Focus
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>API Engineering</h3>
-      <p>Designing clear API boundaries, request validation, authentication flows and maintainable service layers.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Data & Performance</h3>
-      <p>Understanding data modelling, query patterns, caching strategies and the trade-offs behind storage choices.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Infrastructure</h3>
-      <p>Containerizing applications, configuring reverse proxies and learning how applications run beyond local development.</p>
-    </td>
-  </tr>
-</table>
-
-## Technology Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" alt="C, C++, Python and JavaScript" />
-</p>
-
-**Frontend & Motion**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,gsap&theme=dark" alt="HTML, CSS, React and GSAP" />
-</p>
-
-**Backend & APIs**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Node.js, Express and FastAPI" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" alt="MongoDB and PostgreSQL" />
-</p>
-
-**Developer Tools & Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman&theme=dark" alt="Docker, Nginx, Git and Postman" />
-</p>
-
-**Currently Exploring**
-
-`Redis` · `RabbitMQ` · `Kafka` · `gRPC` · `Linux` · `GitHub Actions` · `Kubernetes` · `Prometheus` · `Grafana`
-
-<sub>The “Currently Exploring” list represents topics I'm actively learning or investigating, not a claim of production-level proficiency.</sub>
-
-## Architecture & Systems Thinking
-
-I like breaking systems into clear components and understanding how requests, data and background work move through them. This is a **reference architecture for concepts I'm exploring**, not a diagram of one deployed application.
+## 3D Contribution City
 
 <p align="center">
-  <img src="./assets/system-map.svg" alt="Conceptual backend reference architecture with an API gateway, Node and Python services, databases, Redis cache, message queue and background workers" width="100%" />
+  <a href="https://gitcity.natrajx.in/VinayCodes17">
+    <img src="https://gitcity.natrajx.in/api/svg?u=VinayCodes17&theme=aurora" width="100%" alt="Vinay's GitCity 3D contribution skyline — click to enter the interactive city" />
+  </a>
+  <br />
+  <a href="https://gitcity.natrajx.in/VinayCodes17"><strong>↗ ENTER THE CITY · EXPLORE & DRIVE THROUGH MY CONTRIBUTIONS</strong></a>
 </p>
 
-## Selected Work
-
-### OceanEmbed · Oceanographic Data Reconstruction
-
-A hackathon project exploring the reconstruction and visualization of ocean temperature profiles from oceanographic inputs.
-
-- **Backend direction:** FastAPI and Python-based API orchestration
-- **Data layer:** PostgreSQL / PostGIS with Redis caching concepts
-- **Processing direction:** Background processing and containerized deployment
-- **Focus:** Geospatial data, scientific workflows and practical backend design
-
-<sub>Project details and implementation evolve; visit my repositories for the latest code and status.</sub>
-
-<p>
-  <a href="https://github.com/VinayCodes17?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-0B1D35?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-</p>
-
-## Recognition
-
-- **IEEE HACKSAGON 2026** — Finalist; selected among the top teams from 2,100+ participants / teams.
-- **GirlScript Summer of Code 2026** — Open-source contributor.
-
-## GitHub Analytics
+## Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayCodes17&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=58C7FF&icon_color=58C7FF&text_color=C9D7E5" alt="Vinay's GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=VinayCodes17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58C7FF&fire=58C7FF&currStreakLabel=58C7FF" alt="GitHub contribution streak" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,fastapi,mongodb,postgres,docker,nginx,git,postman,gsap&theme=dark" alt="C, C++, Python, JavaScript, React, Node.js, Express, FastAPI, MongoDB, PostgreSQL, Docker, Nginx, Git, Postman and GSAP" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayCodes17&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58C7FF&text_color=C9D7E5" alt="Most used languages" />
+  <sub>APIs · Databases · Microservices · Caching · Containers · System Design</sub>
+  <br />
+  <sub>Exploring: Redis · RabbitMQ · Kafka · Kubernetes · Observability</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayCodes17&bg_color=0D1117&color=C9D7E5&line=28B8F0&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="96%" />
+  <img src="https://img.shields.io/badge/IEEE_HACKSAGON_2026-Finalist-0B1D35?style=flat-square&labelColor=075985" alt="IEEE HACKSAGON 2026 Finalist" />
+  <img src="https://img.shields.io/badge/GSSoC_2026-Contributor-0B1D35?style=flat-square&labelColor=075985" alt="GirlScript Summer of Code 2026 contributor" />
 </p>
 
-## 3D Contribution Calendar
+## GitHub at a glance
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution calendar" width="96%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VinayCodes17&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D7E5" alt="GitHub stats: commits, stars and repositories" />
+  <img height="165" src="https://streak-stats.demolab.com?user=VinayCodes17&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D7E5&dates=8293A8" alt="Contribution streak" />
 </p>
 
-## Contribution Activity
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayCodes17&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D7E5" alt="Most used languages by repository size" />
+</p>
+
+## Activity timeline
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayCodes17&bg_color=0D1117&color=C9D7E5&line=0EA5E9&point=67E8F9&area=true&hide_border=true" width="98%" alt="GitHub contribution activity over time" />
+</p>
+
+## Animated contribution FX
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/github-snake.svg" alt="GitHub contribution snake animation" width="96%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/contribution-fx-dark.svg" />
+    <img src="https://raw.githubusercontent.com/VinayCodes17/VinayCodes17/output/contribution-fx.svg" width="98%" alt="Animated neon contribution graph" />
   </picture>
 </p>
 
-## Engineering Principles
-
-```text
-Understand the system before changing it.
-Clarity over unnecessary complexity.
-Measure performance; don't guess.
-Build for maintainability, not just the demo.
-Depth of understanding over surface-level familiarity.
-```
-
-## Let's Connect
-
-I'm interested in meaningful engineering conversations, collaborative projects and opportunities to learn by building.
+## Milestones
 
 <p align="center">
-  <a href="https://github.com/VinayCodes17"><img src="https://img.shields.io/badge/GitHub-VinayCodes17-0D1117?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <!-- Add your LinkedIn and public contact email here when ready. -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VinayCodes17&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8" width="98%" alt="GitHub profile trophies" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/VinayCodes17">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/VinayCodes17?tab=repositories">Projects</a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=58C7FF&center=true&vCenter=true&width=520&lines=Consistency+over+motivation.;Build.+Understand.+Improve." alt="Consistency over motivation. Build, understand, improve." />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:00CFFF,55:075985,100:071426" alt="" />
 </p>
