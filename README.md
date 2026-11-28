@@ -59,7 +59,7 @@
 ## Activity timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VinayCodes17&bg_color=0D1117&color=C9D7E5&line=0EA5E9&point=67E8F9&area=true&hide_border=true" width="98%" alt="GitHub contribution activity over time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayCodes17&theme=github_dark" width="98%" alt="GitHub contribution activity over time" />
 </p>
 
 ## Animated contribution FX
